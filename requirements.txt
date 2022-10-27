@@ -1,0 +1,6 @@
+
+
+1.Download Weight and Configuration Files - https://pjreddie.com/darknet/yolo/
+(Performance on the COCO Dataset)
+ 
+2.Download COCO files - https://github.com/pjreddie/darknet/blob/master/data/coco.names
